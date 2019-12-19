@@ -2,6 +2,8 @@
 
 This is an OSC remote iPad OS app for Hog 4 consoles. It allows you to quickly put fixtures into palettes and groups and clear the programmer or knockout the last selected group. You also have playback options like going lists and scenes and releasing lists and scenes.
 
+[![Download on the App Store](https://raw.githubusercontent.com/maeganjwilson/artnet-converter/master/docs/images/download_app_store.svg?sanitize=true)](https://apps.apple.com/us/app/ihog-osc-lighting-remote/id1487580623?ls=1)
+
 # Features
 
 - Select groups of fixtures and put them in a palette
