@@ -4,8 +4,17 @@ It's time to release another app! It's called iHog4 OSC Remote. It's an app that
 
 There are already some options out there for this like TouchOSC and Hog4Remote, and those are great options, but there is one feature that they are both lacking. That feature is being able to select fixtures from a group and put them in a palette. This was the whole point of making the app because it is something that I felt would be really useful.
 
-![]()
+![](https://github.com/maeganjwilson/iHog/blob/master/posts/images/groups-palettes.png?raw=true)
+
 # Features of the app
+
+You can add your own lists, groups, scenes, and palettes. You can edit the name, the number that they need to trigger, and the color of the object.
+
+![](https://github.com/maeganjwilson/iHog/blob/master/posts/images/list-edits.png?raw=true)
+
+Also, when configuring OSC, you don’t need to change any ports around. It’s clearly labeled that you can enter the console’s input port and the console’s output port to start OSC communication.
+
+![](https://github.com/maeganjwilson/iHog/blob/master/posts/images/osc-settings.png?raw=true)
 
 # How much does it cost?
 
@@ -13,7 +22,8 @@ It's a one time purchase of $1.99. There are in-app purchases to help future dev
 
 # How to download
 
-[Click here](https://apps.apple.com/us/app/ihog-osc-lighting-remote/id1487580623?ls=1)! This takes you to the App Store to download the app.
+It is available to download on the App Store!
+[![Download on the App Store](https://raw.githubusercontent.com/maeganjwilson/artnet-converter/master/docs/images/download_app_store.svg?sanitize=true)](https://apps.apple.com/us/app/ihog-osc-lighting-remote/id1487580623?ls=1)
 
 # Need more info?
 
