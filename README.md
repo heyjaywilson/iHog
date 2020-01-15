@@ -1,21 +1,23 @@
 # iHog 4 - OSC Remote for Hog 4
 
-This is an OSC remote iPad OS app for Hog 4 consoles. It allows you to quickly put fixtures into palettes and groups and clear the programmer or knockout the last selected group. You also have playback options like going lists and scenes and releasing lists and scenes.
+This is an Hog 4 OSC remote made for iPhone, iPad, and iPod touch. It allows you to quickly put fixtures into palettes and groups and clear the programmer or knockout the last selected group. You also have playback options like going lists and scenes and releasing lists and scenes.
 
 [![Download on the App Store](https://raw.githubusercontent.com/maeganjwilson/artnet-converter/master/docs/images/download_app_store.svg?sanitize=true)](https://apps.apple.com/us/app/ihog-osc-lighting-remote/id1487580623?ls=1)
 
 # Features
 
+- Control the programmer
 - Select groups of fixtures and put them in a palette
 - Knock out fixtures
 - Clear the programmer
 - Go lists and scenes
 - Release list and scenes
 - Rename show objects
+- Delete show objects
 
 # Release Notes
 
-- [v2020.1](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-2.md)
+- [v2020.2](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-2.md)
 - [v2020.1](https://github.com/maeganjwilson/iHog/blob/2020-1/releasenotes/2020-1.md)
 - [v2019.1](https://www.notion.so/v2019-1-e6e1d92658ff4e9cb397da217dd0812f)
 
