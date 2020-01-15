@@ -15,6 +15,7 @@ This is an OSC remote iPad OS app for Hog 4 consoles. It allows you to quickly p
 
 # Release Notes
 
+- [v2020.1](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-2.md)
 - [v2020.1](https://github.com/maeganjwilson/iHog/blob/2020-1/releasenotes/2020-1.md)
 - [v2019.1](https://www.notion.so/v2019-1-e6e1d92658ff4e9cb397da217dd0812f)
 
