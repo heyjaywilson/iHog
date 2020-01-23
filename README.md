@@ -20,7 +20,13 @@ Use the programming buttons and the playback side. All the buttons you find on a
 
 # Release Notes
 
+## Current Release
 - [v2020.2](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-2.md)
+
+## Upcoming Release
+- [v2020.3](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-3.md)
+
+## Past Releases
 - [v2020.1](https://github.com/maeganjwilson/iHog/blob/2020-1/releasenotes/2020-1.md)
 - [v2019.1](https://www.notion.so/v2019-1-e6e1d92658ff4e9cb397da217dd0812f)
 
@@ -39,7 +45,7 @@ Please consider supporting future development by using the in-app purchase optio
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21AELD)
 
 ## Monthly payments
-<a href="https://www.patreon.com/bePatron?u=5237407" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=5237407" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 # Nerdy Developer Stuff
 
