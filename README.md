@@ -1,19 +1,22 @@
 # iHog 4 - OSC Remote for Hog 4
 
+[![](https://github.com/maeganjwilson/iHog/blob/master/graphics/background.png?raw=true)](https://apps.apple.com/us/app/ihog-osc-lighting-remote/id1487580623?ls=1)
+
 This is an Hog 4 OSC remote made for iPhone, iPad, and iPod touch. It allows you to quickly put fixtures into palettes and groups and clear the programmer or knockout the last selected group. You also have playback options like going lists and scenes and releasing lists and scenes.
 
 [![Download on the App Store](https://raw.githubusercontent.com/maeganjwilson/artnet-converter/master/docs/images/download_app_store.svg?sanitize=true)](https://apps.apple.com/us/app/ihog-osc-lighting-remote/id1487580623?ls=1)
 
 # Features
 
-- Control the programmer
-- Select groups of fixtures and put them in a palette
-- Knock out fixtures
-- Clear the programmer
-- Go lists and scenes
-- Release list and scenes
-- Rename show objects
-- Delete show objects
+## Control Show Objects
+
+Use show objects like groups, palettes, lists, and scenes from directories like you would on a console screen.
+
+Change object properties like the color of the box and the name of the object.
+
+## Control the Front Panel
+
+Use the programming buttons and the playback side. All the buttons you find on a Hog 4 console are available in the app. 90 masters can be controlled via the playback side. Also in settings, decide whether or not you are utilizing Nano Mode, a console with 4 encoders, and how precise the encoders respond.
 
 # Release Notes
 
@@ -27,22 +30,23 @@ The app is a one time purchase of $1.99. I keep the cost low to make it more acc
 
 To maintain an app like this, I will need to test the app with each Hog 4 OS software release and each iPad OS software release. Plus there are more features I’d like to add into the app as time goes on. 
 
-Please consider supporting future development by using the in-app purchase option or the links below.
+Please consider supporting future development by using the in-app purchase option or the options below.
 
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/appsbymw) with Buy Me a Coffee - Use this link to buy me a coffee (or two or three) so that I can keep coding well past bed time or wake up way too early
-- [Buy Me a Coffee with Ko-Fi](https://ko-fi.com/appsbymw) - Use this link to buy me a coffee (or two or three) so that I can keep coding well past bed time or wake up way too early
-- 💸 [Patreon](https://www.patreon.com/maeganwilson_) - Use this link to support me monthly and get free access to my development blog posts
+## One time payments
 
-# Support & Privacy Policy
+<a href="https://www.buymeacoffee.com/appsbymw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
-[Guide](https://www.notion.so/Guide-622fbf22e0d6469f9608a8447c68927d)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21AELD)
 
-## Support Contact
+## Monthly payments
+<a href="https://www.patreon.com/bePatron?u=5237407" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+# Nerdy Developer Stuff
+
+This app's interface utilizes [SwiftUI](https://developer.apple.com/xcode/swiftui/). All show data is stored on device using Core Data. OSC is implemented using [SwiftOSC](https://github.com/ExistentialAudio/SwiftOSC).
+
+# Support Contact
 
 Email: maegan@maeganwilson.com
 
 Add issues and feature requests to GitHub: [CLICK HERE](https://github.com/maeganjwilson/iHog/issues/new/choose)
-
-## Privacy Policy
-
-[Privacy Policy](https://www.notion.so/Privacy-Policy-2b62909f96a445d386c205929264a5aa)
