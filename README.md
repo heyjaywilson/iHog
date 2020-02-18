@@ -44,7 +44,8 @@ Please consider supporting future development by using the in-app purchase optio
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21AELD)
 
 ## Monthly payments
-<a href="https://www.patreon.com/bePatron?u=5237407" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+
+[![](https://github.com/maeganjwilson/appsbymwblog/blob/master/static/images/patron.png?raw=true)](https://www.patreon.com/appsbymw)
 
 # Nerdy Developer Stuff
 
