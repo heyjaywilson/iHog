@@ -21,17 +21,18 @@ Use the programming buttons and the playback side. All the buttons you find on a
 # Release Notes
 
 ## Current Release
-- [v2020.3](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-3.md)
+- [v2020.4](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-4.md)
 
 ## Past Releases
 
+- [v2020.3](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-3.md)
 - [v2020.2](https://github.com/maeganjwilson/iHog/blob/master/releasenotes/2020-2.md)
 - [v2020.1](https://github.com/maeganjwilson/iHog/blob/2020-1/releasenotes/2020-1.md)
 - [v2019.1](https://www.notion.so/v2019-1-e6e1d92658ff4e9cb397da217dd0812f)
 
 # Your Support of Future Development
 
-The app is a one time purchase of $1.99. I keep the cost low to make it more accessible to anyone who wants to use it. 
+The app is a one time purchase of $3.99. I keep the cost low to make it more accessible to anyone who wants to use it. 
 
 To maintain an app like this, I will need to test the app with each Hog 4 OS software release and each iPad OS software release. Plus there are more features I’d like to add into the app as time goes on. 
 
