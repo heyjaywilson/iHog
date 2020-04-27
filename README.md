@@ -32,13 +32,15 @@ Use the programming buttons and the playback side. All the buttons you find on a
 
 # Your Support of Future Development
 
-The app is a one time purchase of $3.99. I keep the cost low to make it more accessible to anyone who wants to use it. 
+The app is a one time purchase of $1.99. I keep the cost low to make it more accessible to anyone who wants to use it. 
 
 To maintain an app like this, I will need to test the app with each Hog 4 OS software release and each iPad OS software release. Plus there are more features I’d like to add into the app as time goes on. 
 
 Please consider supporting future development by using the in-app purchase option or
 
-<a href="https://www.buymeacoffee.com/appsbymw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+- In-app Purchases
+- [Patreon](https://www.patreon.com/appsbymw)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/appsbymw)
 
 # Nerdy Developer Stuff
 
